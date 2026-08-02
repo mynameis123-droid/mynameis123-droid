@@ -1,8 +1,8 @@
-# Hi 👋, I'm Rostyslav
+# Hi 👋, I'm mynameis123-droid
 
-### VITRIKUSH
+### mynameis123-droid
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/rostislavvitrikush" alt="https://github.com/rostislavvitrikush" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/mynameis123-droid" alt="https://github.com/mynameis123-droid" /></a> </p>
 
 - 🔭 I'm currently working on **Fullstack & Frontend Developer**
 
